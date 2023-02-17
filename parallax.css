@@ -20,7 +20,7 @@ perspective: 10px;
     transform-style: preserve-3d;
 }
 .background{
-    transform: translatez(-40px) scale(5);
+    transform: translatez(-39px) scale(5);
    
 }
 .foreground{
